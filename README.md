@@ -20,7 +20,7 @@ No database required — it's all about simplicity! 😄
 - **Frontend**: [React](https://reactjs.org/) ⚛️ + [Vite](https://vitejs.dev/) ⚡  
 - **State Management**: React's built-in hooks 🪝 (like `useState` and `useEffect`)  
 - **Styling**: CSS or your favorite library ✨  
-- **Image Handling**: Upload and preview images in-browser — no backend required! 🚫🗄️
+
 
 ---
 
